@@ -1,0 +1,8 @@
+D:\c#-projects\HW05_03_23_2\HW05_03_23_2\bin\Debug\HW05_03_23_2.exe.config
+D:\c#-projects\HW05_03_23_2\HW05_03_23_2\bin\Debug\HW05_03_23_2.exe
+D:\c#-projects\HW05_03_23_2\HW05_03_23_2\bin\Debug\HW05_03_23_2.pdb
+D:\c#-projects\HW05_03_23_2\HW05_03_23_2\obj\Debug\HW05_03_23_2.csproj.AssemblyReference.cache
+D:\c#-projects\HW05_03_23_2\HW05_03_23_2\obj\Debug\HW05_03_23_2.csproj.SuggestedBindingRedirects.cache
+D:\c#-projects\HW05_03_23_2\HW05_03_23_2\obj\Debug\HW05_03_23_2.csproj.CoreCompileInputs.cache
+D:\c#-projects\HW05_03_23_2\HW05_03_23_2\obj\Debug\HW05_03_23_2.exe
+D:\c#-projects\HW05_03_23_2\HW05_03_23_2\obj\Debug\HW05_03_23_2.pdb
